@@ -7,6 +7,7 @@
 - API MOEX.R - более сложные примеры выгрузи данных API Москвоской биржи и последующая их обработка.  
 
 ### Полезные ссылки по теме
+[Документация по API МосБиржи](https://www.moex.com/a2193)
 [Free API Мосбиржи в формулах Microsoft Excel](https://habr.com/ru/post/498268/)  
 [Что делает Free API Московской биржи в Google Таблицах](https://habr.com/ru/post/486716/)  
 [Примеры работы с API Московской биржи в таблицах](https://drive.google.com/file/d/1SRFExTs42traUQKEHJXNYei4QtmuLhAf/view)  
